@@ -1,0 +1,24 @@
+.button {
+  width: 100%;
+  height: 3rem;
+  border: none;
+  border-radius: 0.3rem;
+  font-size: 1.3rem;
+  cursor: pointer;
+}
+
+.dark-gray {
+  background-color: #dadce0;
+}
+
+.border-shadow {
+  border: 1px solid black;
+  box-shadow: 0 1px 6px rgba(32, 33, 36, 0.28);
+}
+
+.blue {
+  background-color: #4285f4;
+  color: #fff;
+  font-weight: 500;
+  font-size: 2rem;
+}
