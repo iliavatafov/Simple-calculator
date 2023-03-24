@@ -31,6 +31,8 @@
 
 <h3 align="center"><i>Features</i></h3>
 
+<hr>
+
 <p>The calculator includes the following features:</p>
 
 <ul>
