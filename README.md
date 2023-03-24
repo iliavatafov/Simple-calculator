@@ -5,22 +5,33 @@
 <p align="center"> A simple calculator providing the four basic arithmetic operations - multiplication, division, addition, and subtraction. The user can view and use results of previous calculations, and the calculator provides a good user experience and a responsive interface.
 </p>
 
+<hr>
+
 <h3 align="center"><i>Screenshots</i></h3>
 
 <hr>
 
 <p>
     <img src="./images/standard.jpg"/>
+    <hr>
     <img src="./images/history.jpg"/>
+    <hr>
     <img src="./images/history-result.jpg"/>
 <p>
 
 <hr>
 
-<h2><i>Technologies </i></h2>
+<h3 align="center"><i>Technologies </i></h3>
+
+<hr>
+
 <p>This project uses React, a popular JavaScript library, to create a dynamic and responsive user interface.</p>
 
-<h2><i>Features</i></h2>
+<hr>
+
+<h3 align="center"><i>Features</i></h3>
+
+<hr>
 
 <p>The calculator includes the following features:</p>
 
@@ -30,7 +41,11 @@
     <li>Buttons press/click effect</li>
 </ul>
 
-<h2><i>How to run the app</i></h2>
+<hr>
+
+<h3 align="center"><i>How to run the app</i></h3>
+
+<hr>
 
 <ol>
     <li>Download the repository content in a ZIP file.</li>
