@@ -3,7 +3,7 @@
 <p align="center"> A simple calculator providing the four basic arithmetic operations - multiplication, division, addition and subtraction. The user has the option to view and use results of previous calculations. The calculator provides a good UX and a responsive interface.
 </p>
 
-<h3><i>Screenshots </i></h3>
+<h2 align="center"><i>Screenshots </i></h2>
 
 <p align="center">
     <img src="./images/standard.jpg"/>
@@ -19,8 +19,14 @@
 
 <h2 align="center"><i>Features of the platform</i></h2>
 
-<i>Perform four basic arithmetic operations - multiplication, division, addition and subtraction</i>
+<ul>
+    <li>Perform four basic arithmetic operations - multiplication, division, addition and subtraction</li>
+    <li>Results history state management</li>
+    <li>Buttons press/click effect</li>
+</ul>
 
-<i>Results history state management</i>
+<b>Perform four basic arithmetic operations - multiplication, division, addition and subtraction</b>
 
-<i>iutton press/click effect</i>
+<b>Results history state management</b>
+
+<b>iutton press/click effect</b>
