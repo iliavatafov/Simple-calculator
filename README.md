@@ -12,11 +12,11 @@
 <p>
 
 <h2 align="center"><i>Technologies </i></h2>
-<p>This project uses React, a popular JavaScript library, to create a dynamic and responsive user interface.</p>
+<p align="center">This project uses React, a popular JavaScript library, to create a dynamic and responsive user interface.</p>
 
 <h2 align="center"><i>Features</i></h2>
 
-<p align="center">The calculator includes the following features:</p>
+<p>The calculator includes the following features:</p>
 
 <ul>
     <li>Perform four basic arithmetic operations - multiplication, division, addition and subtraction</li>
