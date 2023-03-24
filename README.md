@@ -1,4 +1,4 @@
-<h1><i>Simple Calculator</i></h1>
+<h1 align="center"><i>Simple Calculator</i></h1>
 
 <p> A simple calculator providing the four basic arithmetic operations - multiplication, division, addition, and subtraction. The user can view and use results of previous calculations, and the calculator provides a good user experience and a responsive interface.
 </p>
