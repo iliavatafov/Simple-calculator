@@ -25,8 +25,6 @@
 
 <hr>
 
-<p>This project uses React, a popular JavaScript library, to create a dynamic and responsive user interface.</p>
-
 <div align="center">
     <img src="./images/react.png"/>
 </div>
