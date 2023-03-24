@@ -19,10 +19,8 @@
 
 <h2 align="center"><i>Features of the platform</i></h2>
 
-<hr/>
+<i>Perform four basic arithmetic operations - multiplication, division, addition and subtraction</i>
 
-<b>Perform four basic arithmetic operations - multiplication, division, addition and subtraction</b>
+<i>Results history state management</i>
 
-<b>Results history state management</b>
-
-<b>Button press/click effect</b>
+<i>iutton press/click effect</i>
