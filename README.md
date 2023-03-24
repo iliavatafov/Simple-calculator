@@ -3,8 +3,6 @@
 <p align="center"> A simple calculator providing the four basic arithmetic operations - multiplication, division, addition and subtraction. The user has the option to view and use results of previous calculations. The calculator provides a good UX and a responsive interface.
 </p>
 
-<hr/>
-
 <h2 align="center"><i>Screenshots </i></h2>
 
 <p align="center">
