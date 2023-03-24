@@ -5,18 +5,15 @@
 
 <hr/>
 
-<h2 align="center"><i>Screenshots: </i></h2>
+<h2 align="center"><i>Screenshots </i></h2>
 
 <p align="center">
     <img src="./images/standard.jpg"/>
-    <hr/>
     <img src="./images/history.jpg"/>
-    <hr/>
     <img src="./images/history-result.jpg"/>
-    <hr/>
 <p>
 
-<h2 align="center"><i>Technologies: </i></h2>
+<h2 align="center"><i>Technologies </i></h2>
 
 <div align="center" >
 <img src="./images/react.png"/>
