@@ -5,6 +5,8 @@
 
 <hr/>
 
+<h2 align="center"><i>Screenshots: </i></h2>
+
 <p align="center">
     <img src="./images/standard.jpg"/>
     <hr/>
@@ -14,17 +16,15 @@
     <hr/>
 <p>
 
-<h4 align="center"><i>Technologies: </i></h3>
+<h2 align="center"><i>Technologies: </i></h2>
 
 <div align="center" >
 <img src="./images/react.png"/>
 </div>
 
-**Features of the platform**
+<h2 align="center"><i>Features of the platform</i></h2>
 
 <hr/>
-
-<b>Responsive UI</b>
 
 <b>Perform four basic arithmetic operations - multiplication, division, addition and subtraction</b>
 
