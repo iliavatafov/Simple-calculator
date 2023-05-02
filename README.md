@@ -47,6 +47,8 @@
 
 <h3 align="center"><i>Demo link</i></h3>
 
+<hr>
+
 <div align="center">
     <a align="center" href="https://simple-calc-2893d.web.app/"><i>Demo</i></a>
 </div>
