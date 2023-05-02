@@ -45,7 +45,15 @@
 
 <hr>
 
-<h3 align="center"><i>How to run the app</i></h3>
+<h3 align="center"><i>Demo link</i></h3>
+
+<div align="center">
+    <a align="center" href="https://simple-calc-2893d.web.app/"><i>Demo</i></a>
+</div>
+
+<hr>
+
+<h3 align="center"><i>How to run the app localy</i></h3>
 
 <hr>
 
